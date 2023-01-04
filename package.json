@@ -29,7 +29,7 @@
     "e2e": "npm run postinstall:web && ng e2e"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "0.12.1",
+    "@angular-devkit/build-angular": "15.0.4",
     "@angular/animations": "^7.2.6",
     "@angular/cdk": "^7.3.3",
     "@angular/cli": "7.2.1",
